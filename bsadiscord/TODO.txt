@@ -1,0 +1,5 @@
+the rankrequirement.py function to print !rank help is broken - I wired it up to print the helpstring if the user calls !rank without any other arguments
+
+should probably switch the discord bot handler from a long if/elif statement to the actual discord command hander
+
+
